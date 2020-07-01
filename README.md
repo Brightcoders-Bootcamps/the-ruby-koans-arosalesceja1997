@@ -10,7 +10,7 @@ Para más información sobre los [Ruby Koans revisa el sitio oficial](http://rub
 ## Pre-requisitos
 Antes de iniciar debes:
 
-- Instalar y utilizar Rubocop
+- [Instalar y utilizar Rubocop](https://github.com/bright-coders/commons/tree/master/topics/rubocop)
 - Instalar y utilizar Reek
 
 ## Requerimientos funcionales
