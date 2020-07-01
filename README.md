@@ -38,7 +38,7 @@ Antes de iniciar debes:
 ## Entregable
  - Solución de todos los Koans
  - Código fuente en Github
- - Debes actualizar [este archivo](setup/README.md)) en donde se describa el proceso para hacer funcionar el proyecto
+ - Debes actualizar [este archivo](setup/README.md) en donde se describa el proceso para hacer funcionar el proyecto
  - Los commits de Git deben ser significativos
  
 ## Evaluación / Revisión
