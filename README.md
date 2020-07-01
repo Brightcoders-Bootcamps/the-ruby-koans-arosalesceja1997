@@ -11,7 +11,7 @@ Para más información sobre los [Ruby Koans revisa el sitio oficial](http://rub
 Antes de iniciar debes:
 
 - [Instalar y utilizar Rubocop](https://github.com/bright-coders/commons/tree/master/topics/rubocop)
-- Instalar y utilizar Reek
+- [Instalar y utilizar Reek](https://github.com/bright-coders/commons/tree/master/topics/reek)
 
 ## Requerimientos funcionales
 
@@ -21,7 +21,7 @@ Antes de iniciar debes:
 - Calidad
   - Utilizar estilo de código definido por la comunidad (apoyarse en Rubocop)
   - Pruebas unitarias
-  - Refactorizar (apoyarse en Reek)
+  - Refactorizar (apoyarse en [Reek](https://github.com/bright-coders/commons/tree/master/topics/reek))
 - Ejecución
   - Puede ejecutarse desde la linea de comandos y mostrar la salida en consola- 
 - Código fuente
@@ -32,7 +32,7 @@ Antes de iniciar debes:
 ## Tecnologías
 - Lenguaje de programación Ruby
 - Pruebas unitarias
-- Refactorización (Reek)
+- [Refactorización (Reek)](https://github.com/bright-coders/commons/tree/master/topics/reek)
 - Línea de comando
 
 ## Entregable
@@ -57,7 +57,7 @@ Este reto comprende una serie de ejercicios los cuales tiene el propósito de ay
 5. Inicia el proceso de refactorización, es decir, incorporar mejoras al código inicial tomando en cuenta lo especificado en los Requerimientos Funcionales
 6. Agrega los nuevos features solicitados en los requerimientos funcionales
 7. Agrega pruebas para cada feature implementado
-8. Itera, refactoriza y asegurate de que las pruebas sigan pasando
+8. Itera, [refactoriza](https://github.com/bright-coders/commons/tree/master/topics/reek) y asegurate de que las pruebas sigan pasando
 9. En todo momento asegurate de tu código cumpla con los requerimientos funcionales solicitados.
 10. Asegurate de que has terminado todos los ejercicios
 
