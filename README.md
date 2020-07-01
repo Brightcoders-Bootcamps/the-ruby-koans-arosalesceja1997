@@ -38,7 +38,7 @@ Antes de iniciar debes:
 ## Entregable
  - Solución de todos los Koans
  - Código fuente en Github
- - Debes actualizar el archivo setup.md en donde se describa el proceso para hacer funcionar el proyecto
+ - Debes actualizar [este archivo](setup/README.md)) en donde se describa el proceso para hacer funcionar el proyecto
  - Los commits de Git deben ser significativos
  
 ## Evaluación / Revisión
@@ -72,7 +72,7 @@ Este reto comprende una serie de ejercicios los cuales tiene el propósito de ay
 - NO es un examen sino un ejercicio por lo que puedes apoyarte en tus compañeros y mentores para recibir ayuda, así que si tienes dudas, pregunta, pregunta pregunta!
 
 ## Setup
-En [este elnace](extra/setup.md) se describen los pasos necesarios para ejecutar/probar este proyecto.
+En [este elnace](setup/README.md) se describen los pasos necesarios para ejecutar/probar este proyecto.
 
 ## Enlaces
 ### Commits
