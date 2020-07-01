@@ -19,16 +19,16 @@ Antes de iniciar debes:
 
 ## Requerimientos no-funcionales
 - Calidad
- - Utilizar estilo de código definido por la comunidad (apoyarse en Rubocop)
- - Pruebas unitarias
+  - Utilizar estilo de código definido por la comunidad (apoyarse en Rubocop)
+  - Pruebas unitarias
+  - Refactorizar (apoyarse en Reek)
 - Ejecución
- - Puede ejecutarse desde la linea de comandos y mostrar la salida en consola
+  - Puede ejecutarse desde la linea de comandos y mostrar la salida en consola- 
 - Código fuente
- - Orientado a Objetos
- - Métodos Pequeños
- - Aplicar los principios SOLID
- - Refactorizar (apoyarse en Reek)
-
+  - Orientado a Objetos 
+  - Métodos Pequeños
+  - [Aplicar los principios SOLID](https://rubygarage.org/blog/solid-principles-of-ood)
+  
 ## Tecnologías
 - Lenguaje de programación Ruby
 - Pruebas unitarias
